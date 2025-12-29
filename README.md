@@ -4,7 +4,7 @@ So if you want to help me with this project do it! It's completely open-source.
 I called it "Music Player For Musicians" because i'm a bassist, and i need a good software to reproduce my music and my bands projects.
 
 
-#Version 0.1
+Version 0.1
 This is the first version of the software, it supports .mp3, .ogg, .flac, .wav type of files, but you can easely add a file extension.
 It has a very basic GUI.
 If you find a bug make me know or solve it.
