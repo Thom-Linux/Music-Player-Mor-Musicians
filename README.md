@@ -5,4 +5,5 @@ I called it "Music Player For Musicians" because i'm a bassist, and i need a goo
 
 This is the first version of the software, it supports .mp3, .ogg, .opus, .flac, .wav type of files, but you can easely add a file extension.
 If you find a bug make me know or solve it.
+
 [Music Player for Musicians | v0.1.py](https://github.com/user-attachments/files/24366957/Music.Player.for.Musicians.v0.1.py)
