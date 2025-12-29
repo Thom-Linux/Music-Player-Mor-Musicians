@@ -15,6 +15,6 @@ If you find a bug make me know or solve it.
 Version 0.2 (Beta):
 [Music Player for Musicians | v0.2.py](https://github.com/user-attachments/files/24367160/Music.Player.for.Musicians.v0.2.py)
 
-This is the second version of the software, ia adds support for .opus files, and it has a less basic GUI with a volume slider.
+This is the second version of the software, it adds support for .opus files, and it has a less basic GUI with a volume slider.
 It has a bug: when you start the program it opens another window called "tk".
 For the v0.2 stable i'm working on this bug.
